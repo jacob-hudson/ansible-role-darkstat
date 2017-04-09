@@ -1,2 +1,6 @@
 ---
 # tasks file for darkstat
+- name: Install latest version of darkstat
+  apt:
+    name: darkstat
+    state: latest
