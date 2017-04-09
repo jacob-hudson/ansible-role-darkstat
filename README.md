@@ -1,5 +1,6 @@
-Role Name
-=========
+darkstat
+
+[![Build Status](https://travis-ci.org/jacob-hudson/ansible-role-darkstat.svg?branch=master)](https://travis-ci.org/jacob-hudson/ansible-role-darkstat)
 
 A brief description of the role goes here.
 
